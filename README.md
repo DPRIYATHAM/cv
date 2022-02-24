@@ -1,8 +1,9 @@
 # RESUME
-I am Darisi Priyatham. --
 
-I am creative writer and avid coder. --
+I am Darisi Priyatham.
 
-This is my website which tells about me. --
+I am creative writer and avid coder.
 
-You can find some of my education stats and achievements here. --
+This is my website which tells about me.
+
+You can find some of my education stats and achievements here.
